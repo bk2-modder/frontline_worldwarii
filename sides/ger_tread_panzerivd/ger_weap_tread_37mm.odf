@@ -1,0 +1,21 @@
+[WeaponClass]
+ClassParent     = "com_weap_veh_recoilless"
+
+[Properties]
+OrdnanceName    = "ger_weap_tread_37mm_ord"
+SecondaryOrdnanceName 	= "ger_tankmuzzleflash_ord"
+SecondaryOrdnancePeriod = 1
+
+SalvoCount      = "1"
+SalvoDelay      = "0.0"
+
+ShotDelay       = "4.8"
+
+
+ZoomRate        = "0.5"
+ZoomMin         = "2.0"
+ZoomMax         = "4.0"
+
+
+FireSound       = "wpn_fra_37mm"
+

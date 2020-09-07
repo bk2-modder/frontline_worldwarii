@@ -1,0 +1,24 @@
+[OrdnanceClass]
+ClassParent = "com_weap_veh_recoilless_ord"
+
+[Properties]
+ExplosionName           = "ger_weap_tread_37mm_exp"
+OrdnanceSound           = "com_weap_inf_ord_hum_lg"
+
+VehicleScale            = "1.0"
+ShieldScale         = "1.0"
+PersonScale         = "1.0"
+AnimalScale         = "1.0"
+DroidScale          = "1.0"
+BuildingScale           = "1.0"
+
+MaxDamage              = "1500.0"
+LaserTexture        	= "com_sfx_bullet"
+LaserGlowColor      	= "245 171 53 100"
+LaserLength         	= "0.1"
+LaserWidth          	= "0.05"
+LightColor          	= "245 171 53 150"
+LightRadius         	= "0.00"
+
+OrdnanceSound  = "com_weap_inf_ord_hum_lg"
+CollisionSound = "imp_weap_ord_exp"
