@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"nab1_grass"
+		"nab1_grass_close"
+	}
+	REQN
+	{
+		"model"
+		"editor_grasspatch"
+	}
+}

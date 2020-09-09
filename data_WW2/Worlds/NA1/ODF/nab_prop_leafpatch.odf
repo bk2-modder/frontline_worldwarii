@@ -1,0 +1,26 @@
+[GameObjectClass]		
+ClassLabel		=	"leafpatch"
+GeometryName	=	"nab2_prop_leaftree.msh"
+
+[Properties]		
+
+Seed = "321651321"
+Offset = "0.0 0.0 0.0"
+HeightScale = "1.0"
+MinSize = "5.7"
+MaxSize = "6.0"
+Alpha = "1.0"
+NumParticles = "60"
+MaxDistance = "10000"
+Texture = "nab_leaf"
+Radius = "9.5"
+Height = "8"
+MaxFallingLeaves = "8"
+MaxScatterBirds = "8"
+NumParts = "1"
+
+DarknessMin = "0.4"
+DarknessMax = "1.0"
+
+WiggleSpeed = "0.4"
+WiggleAmount = "0.08"

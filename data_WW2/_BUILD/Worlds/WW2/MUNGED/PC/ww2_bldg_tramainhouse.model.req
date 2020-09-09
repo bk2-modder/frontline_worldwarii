@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"ww2_bldg_tramainhouse"
+		"ww2_bldg_tramainhouse_normal"
+		"ww2_bldg_tramainhouse_concretefloor"
+	}
+}

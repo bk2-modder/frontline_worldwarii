@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_inf_pistol"
+		"ger_weap_inf_p08luger_ord"
+		"com_weap_inf_equip_sm"
+	}
+	REQN
+	{
+		"model"
+		"ger_weap_inf_p08luger"
+	}
+}

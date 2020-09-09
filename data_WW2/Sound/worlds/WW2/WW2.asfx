@@ -1,0 +1,10 @@
+effects\wpn_fra_mas38_fire.wav    -resample xbox 22050 pc 22050
+effects\wpn_ger_mp40_fire.wav    -resample xbox 22050 pc 22050
+effects\wpn_fra_mas36_fire.wav    -resample xbox 22050 pc 22050
+effects\wpn_ger_kar98k_fire.wav    -resample xbox 22050 pc 22050
+effects\wpn_ger_p08luger_fire.wav    -resample xbox 22050 pc 22050
+effects\wpn_fra_37mm.wav    -resample xbox 22050 pc 22050
+effects\tank_engine_high.wav    -resample xbox 22050 pc 22050
+effects\tank_engine_idle.wav    -resample xbox 22050 pc 22050
+effects\tank_engine_med.wav    -resample xbox 22050 pc 22050
+effects\tank_engine_turnon.wav    -resample xbox 22050 pc 22050

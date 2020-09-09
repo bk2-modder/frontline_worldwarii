@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent         = "fra_inf_default_soldier"
+
+[Properties]
+GeometryName        = "fra_inf_infantrysoldier"
+GeometryLowRes      = "fra_inf_infantrysoldier_low1"
+//FirstPerson         = "FRA\impoff;imp_1st_officer"
+
+AnimatedAddon			= "backpack"
+GeometryAddon = "addon_alliedsack"
+AddonAttachJoint = "bone_ribcage"

@@ -1,0 +1,962 @@
+Version(3);
+SaveType(0);
+
+Camera("camera")
+{
+	Rotation(0.682, 0.406, 0.523, -0.312);
+	Position(-141.502, 32.309, -71.051);
+	FieldOfView(55.400);
+	NearPlane(1.000);
+	FarPlane(2700.000);
+	ZoomFactor(1.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(0.000, 0.000, 0.000,  1.000, 0.000, 0.000, 0.000);
+	Bookmark(-24.000, 55.608, -140.280,  0.524, 0.446, -0.552, 0.471);
+}
+LightName("WW2.LGT");
+TerrainName("WW2.ter");
+SkyName("WW2.sky");
+ScriptName("DummyScript.dll");
+ControllerManager("StandardCtrlMgr");
+
+WorldExtents()
+{
+	Min(0.000000, 0.000000, 0.000000);
+	Max(0.000000, 0.000000, 0.000000);
+}
+
+NextSequence(-26635938);
+
+Object("csa_crate20", "csa_crate2", 29351249)
+{
+	ChildRotation(0.580, 0.000, 0.815, 0.000);
+	ChildPosition(-139.694, 1.072, -46.663);
+	SeqNo(29351249);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_building_tworoomhouse", "ww2_building_tworoomhouse", 123638136)
+{
+	ChildRotation(1.000, 0.000, -0.018, 0.000);
+	ChildPosition(50.781, 0.000, -119.739);
+	SeqNo(123638136);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate16", "csa_crate3", 176937036)
+{
+	ChildRotation(0.890, 0.000, -0.457, 0.000);
+	ChildPosition(-134.000, 0.000, -32.000);
+	SeqNo(176937036);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence3", "ww2_bldg_countrysidefence", 184777665)
+{
+	ChildRotation(0.704, 0.000, -0.710, 0.000);
+	ChildPosition(-130.000, 0.000, -26.000);
+	SeqNo(184777665);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees4", "nab_prop_trees2", 253242687)
+{
+	ChildRotation(0.615, 0.000, 0.788, 0.000);
+	ChildPosition(-162.000, 0.000, 53.000);
+	SeqNo(253242687);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees24", "nab_prop_trees2", 253477980)
+{
+	ChildRotation(0.972, 0.000, 0.236, 0.000);
+	ChildPosition(54.101, 0.069, -62.656);
+	SeqNo(253477980);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbarrels1", "ww2_prop_woodenbarrels", 265825489)
+{
+	ChildRotation(-0.361, 0.000, -0.932, 0.000);
+	ChildPosition(-138.965, 0.000, -41.916);
+	SeqNo(265825489);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_tramainhouse", "ww2_bldg_tramainhouse", 372512617)
+{
+	ChildRotation(0.153, 0.000, -0.988, 0.000);
+	ChildPosition(-148.000, 0.100, -38.000);
+	SeqNo(372512617);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate10", "csa_crate3", 384193586)
+{
+	ChildRotation(0.637, 0.000, 0.771, 0.000);
+	ChildPosition(-153.000, 1.160, -27.000);
+	SeqNo(384193586);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate8", "csa_crate3", 391033005)
+{
+	ChildRotation(0.539, 0.000, 0.842, 0.000);
+	ChildPosition(-153.000, 0.000, -25.000);
+	SeqNo(391033005);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees13", "nab_prop_trees2", 415272750)
+{
+	ChildRotation(-0.415, 0.000, -0.910, 0.000);
+	ChildPosition(-291.000, -1.000, 31.000);
+	SeqNo(415272750);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees27", "nab_prop_trees2", 452896722)
+{
+	ChildRotation(0.818, 0.000, 0.575, 0.000);
+	ChildPosition(6.488, -0.415, -175.246);
+	SeqNo(452896722);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate3", "csa_crate1", 473737424)
+{
+	ChildRotation(0.997, -0.008, 0.077, -0.006);
+	ChildPosition(-152.402, 0.001, -33.634);
+	SeqNo(473737424);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbarrels4", "ww2_prop_woodenbarrels", 503786032)
+{
+	ChildRotation(0.999, 0.000, -0.042, 0.000);
+	ChildPosition(56.517, 0.000, -124.335);
+	SeqNo(503786032);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees16", "nab_prop_trees2", 584864414)
+{
+	ChildRotation(0.398, 0.000, -0.917, 0.000);
+	ChildPosition(-202.000, -3.000, 149.000);
+	SeqNo(584864414);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree2", "ww2_prop_fir_tree", 625241945)
+{
+	ChildRotation(0.745, 0.000, 0.667, 0.000);
+	ChildPosition(-131.000, 0.000, 17.000);
+	SeqNo(625241945);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence", "ww2_bldg_countrysidefence", 630849888)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-151.000, 0.000, -58.000);
+	SeqNo(630849888);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate2", "csa_crate1", 663448746)
+{
+	ChildRotation(0.677, 0.000, -0.736, 0.000);
+	ChildPosition(-132.000, 0.000, -20.000);
+	SeqNo(663448746);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees10", "nab_prop_trees2", 712143914)
+{
+	ChildRotation(0.074, 0.000, -0.997, 0.000);
+	ChildPosition(-207.000, 0.000, 98.000);
+	SeqNo(712143914);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees12", "nab_prop_trees2", 812568535)
+{
+	ChildRotation(0.074, 0.000, -0.997, 0.000);
+	ChildPosition(-311.000, -2.000, 84.000);
+	SeqNo(812568535);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence13", "ww2_bldg_countrysidefence", 941493460)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(68.084, 0.000, -162.916);
+	SeqNo(941493460);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate21", "csa_crate3", 999067218)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-137.916, 0.000, -44.427);
+	SeqNo(999067218);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree6", "ww2_prop_fir_tree", 1044678430)
+{
+	ChildRotation(0.986, 0.000, 0.166, 0.000);
+	ChildPosition(-236.000, -1.000, -201.000);
+	SeqNo(1044678430);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate14", "csa_crate3", 1053834378)
+{
+	ChildRotation(-0.492, 0.000, -0.871, 0.000);
+	ChildPosition(-133.000, 0.000, -31.000);
+	SeqNo(1053834378);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees14", "nab_prop_trees2", 1081176950)
+{
+	ChildRotation(-0.415, 0.000, -0.910, 0.000);
+	ChildPosition(-276.000, -1.000, 78.000);
+	SeqNo(1081176950);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate19", "csa_crate3", 1156288964)
+{
+	ChildRotation(0.943, 0.000, -0.334, 0.000);
+	ChildPosition(-154.000, 1.160, -32.000);
+	SeqNo(1156288964);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees29", "nab_prop_trees2", 1219982335)
+{
+	ChildRotation(0.038, 0.000, -0.999, 0.000);
+	ChildPosition(-39.320, 0.003, -15.168);
+	SeqNo(1219982335);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree9", "ww2_prop_fir_tree", 1260384905)
+{
+	ChildRotation(0.854, 0.000, 0.520, 0.000);
+	ChildPosition(18.000, -2.000, -4.000);
+	SeqNo(1260384905);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate24", "csa_crate3", 1320876195)
+{
+	ChildRotation(0.355, 0.000, -0.935, 0.000);
+	ChildPosition(-147.005, 1.734, -116.712);
+	SeqNo(1320876195);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence6", "ww2_bldg_countrysidefence", 1329192139)
+{
+	ChildRotation(0.701, 0.000, -0.714, 0.000);
+	ChildPosition(75.150, 0.000, -124.463);
+	SeqNo(1329192139);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees20", "nab_prop_trees2", 1401370025)
+{
+	ChildRotation(0.929, 0.000, 0.371, 0.000);
+	ChildPosition(48.283, -0.800, -196.822);
+	SeqNo(1401370025);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate18", "csa_crate3", 1415199644)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-154.000, 0.000, -32.000);
+	SeqNo(1415199644);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence10", "ww2_bldg_countrysidefence", 1474343813)
+{
+	ChildRotation(0.707, 0.000, -0.707, 0.000);
+	ChildPosition(44.461, 0.000, -123.680);
+	SeqNo(1474343813);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate12", "csa_crate3", 1513175818)
+{
+	ChildRotation(0.638, 0.000, 0.770, 0.000);
+	ChildPosition(-154.000, 0.000, -26.000);
+	SeqNo(1513175818);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees19", "nab_prop_trees2", 1564280336)
+{
+	ChildRotation(-0.401, 0.000, -0.916, 0.000);
+	ChildPosition(-23.000, -2.000, 33.000);
+	SeqNo(1564280336);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree10", "ww2_prop_fir_tree", 1590103490)
+{
+	ChildRotation(-0.223, 0.000, -0.975, 0.000);
+	ChildPosition(-100.000, -2.000, -81.000);
+	SeqNo(1590103490);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence7", "ww2_bldg_countrysidefence", 1607634109)
+{
+	ChildRotation(0.701, 0.000, -0.713, 0.000);
+	ChildPosition(75.424, 0.000, -139.800);
+	SeqNo(1607634109);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate22", "csa_crate3", 1614423706)
+{
+	ChildRotation(0.548, 0.000, -0.836, 0.000);
+	ChildPosition(-139.072, 0.000, -49.307);
+	SeqNo(1614423706);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees18", "nab_prop_trees2", 1656573909)
+{
+	ChildRotation(0.704, 0.000, -0.710, 0.000);
+	ChildPosition(-79.000, -2.000, 102.000);
+	SeqNo(1656573909);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree1", "ww2_prop_fir_tree", 1712175991)
+{
+	ChildRotation(0.712, 0.000, -0.703, 0.000);
+	ChildPosition(-89.000, 3.000, -22.000);
+	SeqNo(1712175991);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees21", "nab_prop_trees2", 1806677678)
+{
+	ChildRotation(0.979, 0.000, -0.205, 0.000);
+	ChildPosition(123.678, 0.000, -192.848);
+	SeqNo(1806677678);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees31", "nab_prop_trees2", 1857269240)
+{
+	ChildRotation(1.000, 0.000, -0.024, 0.000);
+	ChildPosition(186.699, 0.126, -49.184);
+	SeqNo(1857269240);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate13", "csa_crate3", 1927407764)
+{
+	ChildRotation(-0.487, 0.000, -0.873, 0.000);
+	ChildPosition(-154.000, 1.160, -26.000);
+	SeqNo(1927407764);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees23", "nab_prop_trees2", 1990010020)
+{
+	ChildRotation(0.705, 0.000, 0.709, 0.000);
+	ChildPosition(131.071, 0.496, -101.571);
+	SeqNo(1990010020);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("fra_artillery_antitank", "fra_artillery_antitank", 2001217441)
+{
+	ChildRotation(0.002, 0.000, -1.000, 0.000);
+	ChildPosition(-131.000, 0.000, -63.000);
+	SeqNo(2001217441);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree11", "ww2_prop_fir_tree", 2016272388)
+{
+	ChildRotation(-0.042, 0.000, -0.999, 0.000);
+	ChildPosition(122.115, 2.685, -157.183);
+	SeqNo(2016272388);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbarrels2", "ww2_prop_woodenbarrels", 2043694380)
+{
+	ChildRotation(0.999, 0.000, 0.039, 0.000);
+	ChildPosition(-138.812, 0.000, -43.114);
+	SeqNo(2043694380);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate17", "csa_crate3", 2083457478)
+{
+	ChildRotation(0.468, 0.000, -0.884, 0.000);
+	ChildPosition(-133.000, 0.000, -17.000);
+	SeqNo(2083457478);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate6", "csa_crate3", -2146462492)
+{
+	ChildRotation(0.825, 0.000, -0.565, 0.000);
+	ChildPosition(-132.000, 1.000, -20.000);
+	SeqNo(-2146462492);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate25", "csa_crate3", -2105394984)
+{
+	ChildRotation(0.608, 0.000, 0.794, 0.000);
+	ChildPosition(-146.948, 2.894, -116.720);
+	SeqNo(-2105394984);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees30", "nab_prop_trees2", -2090117734)
+{
+	ChildRotation(0.501, 0.000, 0.865, 0.000);
+	ChildPosition(130.151, 1.053, -51.683);
+	SeqNo(-2090117734);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate15", "csa_crate3", -2085345247)
+{
+	ChildRotation(0.153, 0.000, -0.988, 0.000);
+	ChildPosition(-133.000, 1.160, -31.000);
+	SeqNo(-2085345247);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate9", "csa_crate3", -2042492289)
+{
+	ChildRotation(-0.150, 0.000, -0.989, 0.000);
+	ChildPosition(-153.000, 0.000, -27.000);
+	SeqNo(-2042492289);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence1", "ww2_bldg_countrysidefence", -2007743325)
+{
+	ChildRotation(0.717, 0.000, 0.697, 0.000);
+	ChildPosition(-159.000, 0.000, -50.000);
+	SeqNo(-2007743325);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence12", "ww2_bldg_countrysidefence", -1958534229)
+{
+	ChildRotation(0.709, 0.000, -0.705, 0.000);
+	ChildPosition(44.341, 0.000, -154.477);
+	SeqNo(-1958534229);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate11", "csa_crate3", -1948817360)
+{
+	ChildRotation(0.217, 0.000, -0.976, 0.000);
+	ChildPosition(-151.881, 0.000, -25.876);
+	SeqNo(-1948817360);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbench_radio", "ww2_prop_woodenbench_radio", -1901295977)
+{
+	ChildRotation(-0.154, 0.000, -0.988, 0.000);
+	ChildPosition(-144.130, 0.000, -21.015);
+	SeqNo(-1901295977);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbench1", "ww2_prop_woodenbench", -1889110701)
+{
+	ChildRotation(0.005, 0.000, -1.000, 0.000);
+	ChildPosition(-146.000, 0.000, -55.000);
+	SeqNo(-1889110701);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees33", "nab_prop_trees2", -1829725801)
+{
+	ChildRotation(0.870, 0.000, 0.493, 0.000);
+	ChildPosition(-175.550, 0.522, -141.380);
+	SeqNo(-1829725801);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees9", "nab_prop_trees2", -1825995990)
+{
+	ChildRotation(0.488, 0.000, -0.873, 0.000);
+	ChildPosition(-152.000, 0.000, 137.000);
+	SeqNo(-1825995990);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence8", "ww2_bldg_countrysidefence", -1817936860)
+{
+	ChildRotation(0.701, 0.000, -0.713, 0.000);
+	ChildPosition(75.838, 0.000, -155.218);
+	SeqNo(-1817936860);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree13", "ww2_prop_fir_tree", -1698911661)
+{
+	ChildRotation(0.959, 0.000, 0.283, 0.000);
+	ChildPosition(141.746, 5.278, -71.423);
+	SeqNo(-1698911661);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees2", "nab_prop_trees2", -1689451467)
+{
+	ChildRotation(0.557, 0.000, 0.831, 0.000);
+	ChildPosition(-78.000, -1.000, 18.000);
+	SeqNo(-1689451467);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence2", "ww2_bldg_countrysidefence", -1688373240)
+{
+	ChildRotation(0.701, 0.000, -0.713, 0.000);
+	ChildPosition(-130.000, 0.000, -50.000);
+	SeqNo(-1688373240);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree8", "ww2_prop_fir_tree", -1672167776)
+{
+	ChildRotation(-0.346, 0.000, -0.938, 0.000);
+	ChildPosition(-244.000, -4.000, 53.000);
+	SeqNo(-1672167776);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate1", "csa_crate1", -1500473777)
+{
+	ChildRotation(-0.306, 0.000, -0.952, 0.000);
+	ChildPosition(-152.000, 0.000, -22.000);
+	SeqNo(-1500473777);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence11", "ww2_bldg_countrysidefence", -1456916936)
+{
+	ChildRotation(0.708, 0.000, -0.706, 0.000);
+	ChildPosition(44.442, 0.000, -139.052);
+	SeqNo(-1456916936);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_tramainhouse1", "ww2_bldg_tramainhouse", -1397162122)
+{
+	ChildRotation(0.725, 0.000, 0.689, 0.000);
+	ChildPosition(67.330, 3.273, -459.801);
+	SeqNo(-1397162122);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree4", "ww2_prop_fir_tree", -1385486693)
+{
+	ChildRotation(0.986, 0.000, 0.167, 0.000);
+	ChildPosition(-196.000, -1.000, -51.000);
+	SeqNo(-1385486693);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence5", "ww2_bldg_countrysidefence", -1364892169)
+{
+	ChildRotation(-0.082, 0.000, -0.997, 0.000);
+	ChildPosition(-146.000, 0.000, -19.000);
+	SeqNo(-1364892169);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees28", "nab_prop_trees2", -1356987946)
+{
+	ChildRotation(0.818, 0.000, 0.575, 0.000);
+	ChildPosition(-48.408, 0.172, -136.893);
+	SeqNo(-1356987946);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence16", "ww2_bldg_countrysidefence", -1347104023)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-155.299, 2.079, -116.273);
+	SeqNo(-1347104023);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees11", "nab_prop_trees2", -1283829573)
+{
+	ChildRotation(0.074, 0.000, -0.997, 0.000);
+	ChildPosition(-251.000, -3.000, 131.000);
+	SeqNo(-1283829573);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees7", "nab_prop_trees2", -1228503310)
+{
+	ChildRotation(0.761, 0.000, 0.649, 0.000);
+	ChildPosition(-105.000, -3.000, -84.000);
+	SeqNo(-1228503310);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbarrels3", "ww2_prop_woodenbarrels", -1223612865)
+{
+	ChildRotation(0.541, 0.000, 0.841, 0.000);
+	ChildPosition(57.313, 0.000, -122.890);
+	SeqNo(-1223612865);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees3", "nab_prop_trees2", -1154101603)
+{
+	ChildRotation(-0.420, 0.000, -0.908, 0.000);
+	ChildPosition(-121.000, 0.000, 59.000);
+	SeqNo(-1154101603);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree", "ww2_prop_fir_tree", -993313397)
+{
+	ChildRotation(0.974, 0.000, 0.227, 0.000);
+	ChildPosition(-187.980, 0.000, -105.097);
+	SeqNo(-993313397);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbench", "ww2_prop_woodenbench", -976473344)
+{
+	ChildRotation(-0.005, 0.000, -1.000, -0.010);
+	ChildPosition(-156.000, 0.000, -55.116);
+	SeqNo(-976473344);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_woodenbarrels", "ww2_prop_woodenbarrels", -882266910)
+{
+	ChildRotation(0.953, 0.000, -0.304, 0.000);
+	ChildPosition(-140.902, 0.000, -49.098);
+	SeqNo(-882266910);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees22", "nab_prop_trees2", -877546586)
+{
+	ChildRotation(0.870, 0.000, -0.494, 0.000);
+	ChildPosition(136.604, 0.000, -146.331);
+	SeqNo(-877546586);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence15", "ww2_bldg_countrysidefence", -859640895)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-154.450, 2.161, -100.880);
+	SeqNo(-859640895);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence9", "ww2_bldg_countrysidefence", -854836453)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(64.224, 0.000, -115.530);
+	SeqNo(-854836453);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees15", "nab_prop_trees2", -836919950)
+{
+	ChildRotation(0.398, 0.000, -0.917, 0.000);
+	ChildPosition(-293.000, -4.000, 134.000);
+	SeqNo(-836919950);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence17", "ww2_bldg_countrysidefence", -800684981)
+{
+	ChildRotation(0.681, 0.000, 0.732, 0.000);
+	ChildPosition(-162.511, 2.320, -108.602);
+	SeqNo(-800684981);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees6", "nab_prop_trees2", -767088068)
+{
+	ChildRotation(0.660, 0.000, 0.751, 0.000);
+	ChildPosition(-257.000, -3.000, -63.000);
+	SeqNo(-767088068);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees17", "nab_prop_trees2", -742483703)
+{
+	ChildRotation(-0.227, 0.000, -0.974, 0.000);
+	ChildPosition(-92.000, -3.000, 142.000);
+	SeqNo(-742483703);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree5", "ww2_prop_fir_tree", -729759655)
+{
+	ChildRotation(0.986, 0.000, 0.167, 0.000);
+	ChildPosition(-42.000, -3.000, -85.000);
+	SeqNo(-729759655);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_building_tworoomhouse1", "ww2_building_tworoomhouse", -669355856)
+{
+	ChildRotation(0.714, 0.000, 0.701, 0.000);
+	ChildPosition(-143.728, 0.952, -109.971);
+	SeqNo(-669355856);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree3", "ww2_prop_fir_tree", -664428259)
+{
+	ChildRotation(-0.259, 0.000, -0.966, 0.000);
+	ChildPosition(-196.000, -1.000, -1.000);
+	SeqNo(-664428259);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence4", "ww2_bldg_countrysidefence", -655913910)
+{
+	ChildRotation(0.602, 0.000, 0.799, 0.000);
+	ChildPosition(-156.000, 0.000, -28.000);
+	SeqNo(-655913910);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree12", "ww2_prop_fir_tree", -624251413)
+{
+	ChildRotation(0.924, 0.000, -0.383, 0.000);
+	ChildPosition(24.958, -3.217, -169.427);
+	SeqNo(-624251413);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate5", "csa_crate2", -588134455)
+{
+	ChildRotation(0.537, 0.000, -0.844, 0.000);
+	ChildPosition(-132.000, 1.000, -29.000);
+	SeqNo(-588134455);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate7", "csa_crate1", -493923094)
+{
+	ChildRotation(0.686, 0.000, -0.728, 0.000);
+	ChildPosition(-131.522, 2.000, -31.000);
+	SeqNo(-493923094);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_prop_fir_tree7", "ww2_prop_fir_tree", -477753705)
+{
+	ChildRotation(1.000, 0.000, 0.019, 0.000);
+	ChildPosition(-29.000, 1.000, 81.000);
+	SeqNo(-477753705);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees26", "nab_prop_trees2", -449370977)
+{
+	ChildRotation(0.974, 0.000, 0.226, 0.000);
+	ChildPosition(4.218, -0.777, -139.813);
+	SeqNo(-449370977);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate4", "csa_crate2", -357669165)
+{
+	ChildRotation(0.924, 0.000, -0.381, 0.000);
+	ChildPosition(-132.000, 1.000, -33.000);
+	SeqNo(-357669165);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees32", "nab_prop_trees2", -336658447)
+{
+	ChildRotation(0.882, 0.000, 0.472, 0.000);
+	ChildPosition(189.456, -1.932, -105.177);
+	SeqNo(-336658447);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees8", "nab_prop_trees2", -295533259)
+{
+	ChildRotation(1.000, 0.000, 0.000, 0.000);
+	ChildPosition(-102.000, -1.000, -22.000);
+	SeqNo(-295533259);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees5", "nab_prop_trees2", -140887303)
+{
+	ChildRotation(0.580, 0.000, 0.814, 0.000);
+	ChildPosition(-251.000, -2.000, -19.000);
+	SeqNo(-140887303);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees25", "nab_prop_trees2", -140255480)
+{
+	ChildRotation(0.972, 0.000, 0.236, 0.000);
+	ChildPosition(3.991, 1.491, -38.485);
+	SeqNo(-140255480);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("ww2_bldg_countrysidefence14", "ww2_bldg_countrysidefence", -122664398)
+{
+	ChildRotation(0.711, 0.703, 0.000, 0.000);
+	ChildPosition(52.784, 0.000, -162.874);
+	SeqNo(-122664398);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("csa_crate23", "csa_crate3", -120921493)
+{
+	ChildRotation(0.444, 0.000, -0.896, 0.000);
+	ChildPosition(-139.006, 1.160, -49.300);
+	SeqNo(-120921493);
+	Team(0);
+	NetworkId(-1);
+}
+
+Object("nab_prop_trees34", "nab_prop_trees2", -26635939)
+{
+	ChildRotation(0.816, 0.000, 0.578, 0.000);
+	ChildPosition(-170.092, -0.428, -86.016);
+	SeqNo(-26635939);
+	Team(0);
+	NetworkId(-1);
+}

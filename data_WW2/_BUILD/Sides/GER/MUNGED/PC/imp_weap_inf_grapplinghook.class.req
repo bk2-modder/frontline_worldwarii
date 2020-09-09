@@ -1,0 +1,26 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"hud_all_pistol_icon"
+		"hud_weap_semiauto"
+	}
+	REQN
+	{
+		"animset"
+		"human_pistol"
+	}
+	REQN
+	{
+		"model"
+		"imp_weap_inf_pistol"
+		"imp_1st_weap_inf_pistol"
+	}
+	REQN
+	{
+		"class"
+		"imp_weap_inf_grapplinghook_ord"
+	}
+}

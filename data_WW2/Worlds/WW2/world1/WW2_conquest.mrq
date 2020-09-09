@@ -1,0 +1,13 @@
+ucft
+{
+	REQN
+	{
+		"congraph"
+		"WW2_conquest"
+	}
+	REQN
+	{
+		"world"
+		"WW2_conquest"
+	}
+}

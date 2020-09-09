@@ -1,0 +1,27 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"hud_imp_rifle_icon"
+		"hud_weap_fullauto"
+		"hud_weap_salvo"
+	}
+	REQN
+	{
+		"animset"
+		"human_rifle"
+	}
+	REQN
+	{
+		"model"
+		"imp_weap_inf_rifle"
+		"imp_1st_weap_inf_rifle"
+	}
+	REQN
+	{
+		"class"
+		"imp_weap_droid_probe_blaster_ord"
+	}
+}

@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"yav2_main_1"
+		"yav2_main_2"
+		"yav2_main_3"
+		"yav2_main_4"
+		"ww2_main_dirt"
+		"ww2_main_grassydirt"
+		"ww2_pavedroadtexture"
+	}
+}

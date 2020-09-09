@@ -1,0 +1,13 @@
+ucft
+{
+    REQN
+    {
+        "class"
+        "ger_inf_infantrysoldier"
+    }
+	REQN
+	{
+		"model"
+		"imp_1st_officer"
+	}	
+}

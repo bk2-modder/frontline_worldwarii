@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"sky_naboo1"
+	}
+	REQN
+	{
+		"model"
+		"naboo1_sky_dome"
+		"sky_yav2_mountains"
+		"yav_sky_dome_clouds"
+	}
+}

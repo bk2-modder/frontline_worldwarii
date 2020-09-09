@@ -1,0 +1,6 @@
+[OrdnanceClass]
+ClassLabel 		= "fatray"
+
+[Properties]
+TrailEffect = "com_sfx_tank_mg_muzzle"
+Velocity            	= "0.0"

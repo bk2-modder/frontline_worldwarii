@@ -1,0 +1,11 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"ww2_prop_fir_tree_ZERO.msh"
+
+
+[Properties]		
+
+GeometryName	=	"ww2_prop_fir_tree"
+
+FoleyFXGroup    = "wood_foley"

@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_scoutlasers"
+		"imp_weap_fly_tieinter_cannon_ord"
+	}
+}

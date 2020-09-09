@@ -1,0 +1,51 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"atat_icon"
+		"hud_imp_atat_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"imp_walk_atat"
+	}
+	REQN
+	{
+		"anim"
+		"imp_walk_atat1"
+	}
+	REQN
+	{
+		"class"
+		"imp_walk_atat_exp"
+		"small_explosion"
+		"imp_sfx_atat_explosion"
+		"imp_walk_atat_finalexp"
+		"imp_weap_walk_atat_cannon_head"
+		"imp_weap_walk_atat_cannon_chin"
+	}
+	REQN
+	{
+		"model"
+		"imp_walk_atat"
+		"imp_walk_atat_chunk1"
+		"imp_walk_atat_chunk2"
+		"imp_walk_atat_chunk3"
+		"imp_walk_atat_chunk4"
+		"imp_walk_atat_chunk5"
+		"imp_walk_atat_chunk6"
+	}
+	REQN
+	{
+		"config"
+		"bigwalkerstomp"
+		"com_sfx_vehiclespark"
+		"dirtspray"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+		"com_sfx_explosion_lg"
+	}
+}

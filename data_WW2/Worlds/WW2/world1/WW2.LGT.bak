@@ -1,0 +1,22 @@
+
+Light("light", 3480866537)
+{
+	Rotation(-0.171718, -0.985146, 0.000000, 0.000000);
+	Position(0.000000, 68.636238, 195.275970);
+	Type(1);
+	Color(0.933333, 0.901961, 0.823529);
+	CastShadow();
+	Static();
+	CastSpecular(1);
+	PS2BlendMode(0);
+	TileUV(1.000000,1.000000);
+	OffsetUV(0.000000,0.000000);
+}
+
+GlobalLights()
+{
+	Light1("Light");
+	Light2("");
+	Top(222, 212, 207);
+	Bottom(36, 32, 23);
+}

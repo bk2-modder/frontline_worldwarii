@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"fra_inf_default_soldier"
+	}
+	REQN
+	{
+		"model"
+		"fra_inf_infantrysoldier"
+		"fra_inf_infantrysoldier_low1"
+		"addon_alliedsack"
+	}
+}

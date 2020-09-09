@@ -1,0 +1,46 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"atst_icon"
+		"hud_imp_atst_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"imp_walk_atst"
+	}
+	REQN
+	{
+		"model"
+		"imp_walk_atst_snow"
+		"imp_walk_atst_snow_chunk1"
+		"imp_walk_atst_snow_chunk2"
+		"imp_walk_atst_snow_chunk3"
+		"imp_walk_atst_snow_chunk4"
+	}
+	REQN
+	{
+		"class"
+		"imp_walk_atst_exp"
+		"atat_explosion"
+		"imp_walk_atst_finalexp"
+		"imp_weap_walk_atst_cannon_head"
+		"imp_weap_walk_atst_cannon_chin"
+		"imp_weap_walk_atst_guided_rocket"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_walkerstomp"
+		"com_sfx_vehiclespark"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+		"dirtspray"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_explosion_lg"
+		"com_sfx_smokeplume"
+	}
+}

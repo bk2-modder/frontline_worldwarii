@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_laser"
+		"imp_weap_hover_speederbike_cannon_ord"
+	}
+}

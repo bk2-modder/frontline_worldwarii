@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"fra_inf_default"
+		"fra_weap_inf_mas38"
+		"fra_weap_inf_rifle"
+	}
+}

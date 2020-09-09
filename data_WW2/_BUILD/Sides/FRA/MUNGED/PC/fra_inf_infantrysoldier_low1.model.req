@@ -1,0 +1,19 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"fra_inf_addon_diff"
+		"fra_inf_addon_norm"
+		"fra_inf_infantrysoldier_face_diff"
+		"fra_inf_infantrysoldier_face_norm"
+		"fra_inf_infantrysoldier_lower_diff"
+		"fra_inf_infantrysoldier_lower_norm"
+		"fra_inf_infantrysoldier_helmet_diff"
+		"fra_inf_infantrysoldier_helmet_norm"
+		"fra_inf_infantrysoldier_body_diff"
+		"fra_inf_infantrysoldier_body_norm"
+		"fra_inf_infantrysoldier_eyes"
+	}
+}

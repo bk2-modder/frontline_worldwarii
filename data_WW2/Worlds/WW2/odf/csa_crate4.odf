@@ -1,0 +1,10 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"Crate4.msh"
+
+
+[Properties]		
+
+GeometryName	=	"Crate4"
+

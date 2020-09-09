@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"fra_tread_somuas35_treads"
+		"fra_tread_h35hotchkiss_running"
+		"fra_tread_h35hotchkiss_running_norm"
+		"fra_tread_h35hotchkiss_body"
+		"fra_tread_h35hotchkiss_body_norm"
+		"fra_tread_h35hotchkiss_tower"
+		"fra_tread_h35hotchkiss_tower_norm"
+	}
+}

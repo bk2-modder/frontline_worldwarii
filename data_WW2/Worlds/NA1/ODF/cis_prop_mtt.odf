@@ -1,0 +1,7 @@
+[GameObjectClass]		
+ClassLabel		=	"prop"
+GeometryName	=	"cis_prop_mtt.msh"
+
+[Properties]		
+GeometryName	=	"cis_prop_mtt"
+DenyFlyerLand = "1"

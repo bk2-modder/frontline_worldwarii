@@ -1,0 +1,43 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"protoshuttle_icon"
+		"hud_rep_gunship_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"imp_fly_shuttleproto"
+	}
+	REQN
+	{
+		"model"
+		"imp_fly_shuttleproto"
+		"imp_fly_trooptrans_chunk1"
+		"imp_fly_trooptrans_chunk2"
+		"imp_fly_trooptrans_chunk3"
+	}
+	REQN
+	{
+		"class"
+		"imp_weap_fly_trooptrans_recoilless"
+		"imp_weap_fly_trooptrans_ptorpedo"
+		"imp_weap_fly_trooptrans_guided_rocket"
+		"imp_weap_fly_trooptrans_turret"
+		"imp_fly_trooptrans_exp"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_contrail"
+		"com_sfx_vehiclespark_sc"
+		"com_sfx_vehiclesmoke_sc"
+		"com_sfx_vehicleflame_sc"
+		"com_sfx_explosion_lg"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+	}
+}

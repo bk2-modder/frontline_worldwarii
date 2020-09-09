@@ -1,0 +1,36 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"tie-fighter_icon"
+		"hud_imp_tiefighter_icon"
+	}
+	REQN
+	{
+		"model"
+		"hud_tie_fighter_shape"
+		"imp_fly_tiefighter"
+		"imp_fly_tiefighter_chunk1"
+		"imp_fly_tiefighter_chunk2"
+		"imp_fly_tiefighter_chunk3"
+	}
+	REQN
+	{
+		"class"
+		"imp_fly_tiefighter_sc_exp"
+		"imp_weap_fly_tiefighter_sc_cannon"
+		"imp_weap_fly_tiefighter_ptorpedo"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_explosion_lg"
+		"com_sfx_smokeplume"
+		"com_sfx_vehiclespark_sc"
+		"com_sfx_vehiclesmoke_sc"
+		"com_sfx_vehicleflame_sc"
+		"com_sfx_contrail"
+	}
+}

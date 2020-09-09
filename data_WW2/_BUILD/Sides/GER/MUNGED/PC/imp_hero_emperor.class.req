@@ -1,0 +1,25 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"sidious"
+		"sidiouslz"
+	}
+	REQN
+	{
+		"class"
+		"com_jedi_default"
+		"imp_inf_darthsidious_robe"
+		"imp_weap_sidioussaber"
+		"com_weap_inf_force_lightning"
+		"com_weap_inf_force_choke"
+	}
+	REQN
+	{
+		"model"
+		"imp_inf_darthsidious"
+		"imp_inf_darthsidious_low1"
+	}
+}

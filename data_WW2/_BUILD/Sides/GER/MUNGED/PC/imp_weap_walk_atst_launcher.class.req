@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_guided_rocket"
+		"imp_weap_walk_atst_launcher_ord"
+	}
+}

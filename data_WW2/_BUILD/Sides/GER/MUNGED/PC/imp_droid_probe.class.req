@@ -1,0 +1,20 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"troop_icon"
+	}
+	REQN
+	{
+		"model"
+		"imp_droid_probe"
+	}
+	REQN
+	{
+		"class"
+		"imp_droid_probe_exp"
+		"imp_weap_droid_probe_blaster"
+	}
+}

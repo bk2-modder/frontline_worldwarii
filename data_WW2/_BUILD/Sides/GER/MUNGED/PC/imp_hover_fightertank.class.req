@@ -1,0 +1,47 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"fightertank_icon"
+		"hud_rep_fightertank_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"rep_hover_fightertank"
+	}
+	REQN
+	{
+		"anim"
+		"rep_fightertank_9pose"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_waterwake_lg"
+		"dirtspray"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+		"com_sfx_vehiclespark"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+	}
+	REQN
+	{
+		"model"
+		"imp_hover_fightertank"
+		"imp_hover_fightertank_chunk1"
+		"imp_hover_fightertank_chunk2"
+		"imp_hover_fightertank_chunk3"
+	}
+	REQN
+	{
+		"class"
+		"imp_hover_fightertank_exp"
+		"imp_weap_hover_fightertank_cannon"
+		"imp_weap_hover_fightertank_missile"
+		"imp_weap_hover_fightertank_laser"
+	}
+}

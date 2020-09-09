@@ -1,0 +1,37 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"tie-interceptor_icon"
+		"hud_imp_tiefighter_icon"
+	}
+	REQN
+	{
+		"model"
+		"hud_tie_interceptor_shape"
+		"imp_fly_tieinterceptor"
+		"imp_fly_tieinterceptor_chunk1"
+		"imp_fly_tieinterceptor_chunk2"
+		"imp_fly_tieinterceptor_chunk3"
+	}
+	REQN
+	{
+		"class"
+		"imp_fly_tieinterceptor_exp"
+		"imp_weap_fly_tieinter_cannon"
+		"imp_weap_fly_tieinter_missile"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_contrail"
+		"com_sfx_explosion_lg"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+		"com_sfx_vehiclespark_sc"
+		"com_sfx_vehiclesmoke_sc"
+		"com_sfx_vehicleflame_sc"
+	}
+}

@@ -1,0 +1,32 @@
+
+Hub("Hub0")
+{
+	Pos(71.610649, 0.849800, -134.074722);
+	Radius(43.113453);
+}
+
+Hub("Hub1")
+{
+	Pos(-140.575989, 0.000000, -38.916664);
+	Radius(28.582127);
+}
+
+Hub("Hub2")
+{
+	Pos(-120.741837, 3.380393, -137.146759);
+	Radius(37.795589);
+}
+
+Connection("Connection0")
+{
+	Start("Hub1");
+	End("Hub2");
+	Flag(63);
+}
+
+Connection("Connection1")
+{
+	Start("Hub2");
+	End("Hub0");
+	Flag(63);
+}

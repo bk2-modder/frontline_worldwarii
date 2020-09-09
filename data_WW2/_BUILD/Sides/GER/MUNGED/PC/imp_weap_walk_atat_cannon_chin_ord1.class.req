@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_sfx_laser_green"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_veh_recoilless_ord"
+		"imp_weap_walk_atat_cannon_chin_exp4"
+	}
+}

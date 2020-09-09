@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_bombs"
+		"imp_weap_fly_tiebomber_bomb_ord"
+	}
+}

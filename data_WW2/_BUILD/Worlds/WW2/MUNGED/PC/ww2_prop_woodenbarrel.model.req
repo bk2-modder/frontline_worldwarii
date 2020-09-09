@@ -1,0 +1,12 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"ww2_prop_woodenbarrel_100"
+		"ww2_prop_woodenbarrel_100_norm"
+		"ww2_prop_woodenbarrel_25"
+		"ww2_prop_woodenbarrel_25_norm"
+	}
+}

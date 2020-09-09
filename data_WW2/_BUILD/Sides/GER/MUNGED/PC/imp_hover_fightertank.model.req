@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"imp_hover_fightertank"
+		"imp_hover_fightertank_bump"
+		"imp_hover_fightertank_lowrez"
+	}
+}

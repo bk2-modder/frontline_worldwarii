@@ -1,0 +1,46 @@
+[OrdnanceClass]
+ClassLabel          	= "bolt"
+
+[Properties]
+LaserTexture        	= "com_sfx_bullet"
+LaserGlowColor      	= "245 171 53 100"
+LightColor          	= "245 171 53 150"
+LightRadius         	= "0.00"
+
+LaserLength         	= "0.1"
+LaserWidth          	= "0.05"
+GlowLength          	= "0.3"
+BlurLength          	= "1"
+
+LifeSpan            	= "0.80"
+Velocity            	= "300.0"
+Gravity             	= "1.21"
+Rebound             	= "0.1"
+
+MaxDamage           	= "85.0"
+DamageTransitionDelay   = "0.2"     //How long in seconds before the damage change begins.
+DamageTransitionPeriod  = "0.1"     //How long in seconds the damage change lasts.
+DamageFinalDamage       = "50.0"    //What the damage would be at the end of the transition period.  A negative value means that no change is applied.
+FadeLightColor          = "1"       //Whether or not the color on the light should be faded along with the damage.
+EndLaserGlowColor       = "255 255 0 100" //What color the laser glow will be by the end of the transition. Varies over DamageTransitionPeriod. (only for lasers.)
+EndLightColor           = "255 255 0 150" //What color light will be applied by the end of the transition.  Varies over DamageTransitionPeriod.
+
+VehicleScale        	= "0.1"
+ShieldScale         	= "1.0"
+PersonScale         	= "1.0"
+DroidScale          	= "1.0"
+BuildingScale       	= "0.1"
+
+ImpactEffectSoft    	= "com_sfx_explosion_sm_soft"
+ImpactEffectRigid   	= "com_sfx_explosion_sm"
+ImpactEffectStatic  	= "com_sfx_explosion_sm"
+ImpactEffectTerrain 	= "com_sfx_explosion_sm"
+ImpactEffectWater   	= "com_sfx_watersplash_ord"
+ImpactEffectShield 	= "com_sfx_explosion_sm"
+ExpireEffect        	= "com_sfx_ord_exp"
+
+OrdnanceSound   	= "com_weap_inf_ord_hum_sm"
+CollisionSound  	= "imp_weap_ord_exp"
+
+BonusAmplification  = "0.25"				//how much more damage will be done when team_bonus_blaster_amplication is on
+

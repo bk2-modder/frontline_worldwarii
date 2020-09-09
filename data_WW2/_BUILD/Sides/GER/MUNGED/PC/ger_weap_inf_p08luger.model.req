@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"ger_weap_inf_p08luger_standard"
+		"ger_weap_inf_p08luger_body"
+		"ger_weap_inf_p08luger_body_norm"
+	}
+}

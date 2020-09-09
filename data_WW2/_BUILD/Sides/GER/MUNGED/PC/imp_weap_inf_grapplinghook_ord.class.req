@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"anim"
+		"human_pistol_stand_shoot"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_ord_exp"
+	}
+}

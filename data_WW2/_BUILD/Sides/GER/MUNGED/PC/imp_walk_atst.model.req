@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"imp_vehicle_atst"
+		"imp_vehicle_atst_bump"
+		"imp_vehicle_atst_forest_lowrez"
+	}
+}

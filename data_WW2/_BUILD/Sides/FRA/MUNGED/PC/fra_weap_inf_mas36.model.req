@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"fra_weap_inf_mas36"
+		"fra_weap_inf_mas36_normal"
+		"fra_weap_inf_mas36_stock"
+	}
+}

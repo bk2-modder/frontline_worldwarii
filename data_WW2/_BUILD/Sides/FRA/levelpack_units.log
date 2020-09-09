@@ -1,0 +1,28 @@
+Logging LevelPack
+22:32:3809/08/20
+
+=== fra_artillery_antitank.lvl ===
+Missing file hud_all_lascannon_icon.texture
+    Reqd by munged\pc\fra_artillery_antitank.class.req
+Missing file hud_all_turret_icon.texture
+    Reqd by munged\pc\fra_artillery_antitank.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+            munged\pc\fra_weap_tread_37mm_ord.class.req
+
+=== fra_tread_h35hotchkiss.lvl ===
+Missing file tread_l.texture
+    Reqd by munged\pc\fra_tread_h35hotchkiss.class.req
+Missing file tread_r.texture
+    Reqd by munged\pc\fra_tread_h35hotchkiss.class.req
+Missing file com_weap_inf_ord_hum_sm.class
+    Reqd by ..\common\munged\pc\com_weap_inf_smg_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\fra_weap_inf_mas38_tank.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+            munged\pc\fra_weap_tread_37mm_ord.class.req
+Missing file hailfire_wake.config
+    Reqd by munged\pc\fra_tread_h35hotchkiss.class.req
+   0 Errors    0 Warnings
+

@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"imp_inf_default_rifleman"
+	}
+	REQN
+	{
+		"model"
+		"ger_inf_wehrmachtsoldier"
+		"ger_inf_wehrmachtsoldier_low1"
+		"addon_axisbackpack"
+	}
+}

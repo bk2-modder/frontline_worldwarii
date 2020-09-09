@@ -1,0 +1,28 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_smg"
+
+[Properties]
+OrdnanceName        = "fra_weap_inf_mas38_ord"
+SecondaryOrdnanceName 	= "fra_tankmuzzleflash_mg_ord"
+SecondaryOrdnancePeriod = 1
+
+ShotDelay           = "0.11"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "wpn_fra_mas38_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

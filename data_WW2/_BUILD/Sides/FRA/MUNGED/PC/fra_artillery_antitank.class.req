@@ -1,0 +1,29 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"turret_icon"
+		"hud_all_lascannon_icon"
+		"hud_all_turret_icon"
+	}
+	REQN
+	{
+		"model"
+		"fra_artillery_antitank"
+		"fra_artillery_antitank_destroyed"
+	}
+	REQN
+	{
+		"class"
+		"fra_artillery_antitank_exp"
+		"fra_weap_tread_37mm"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_vehiclespark"
+		"com_sfx_smokeplume"
+	}
+}

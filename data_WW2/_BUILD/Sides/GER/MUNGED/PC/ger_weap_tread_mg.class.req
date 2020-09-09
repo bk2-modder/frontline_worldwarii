@@ -1,0 +1,12 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_inf_smg"
+		"ger_weap_tread_mg_ord"
+		"ger_tankmuzzleflash_mg_ord"
+		"com_weap_inf_equip_med"
+	}
+}

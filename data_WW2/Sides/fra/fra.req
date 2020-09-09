@@ -1,0 +1,22 @@
+ucft
+{
+    REQN
+    {
+        "lvl"
+        "fra_inf_infantrysoldier"
+		"fra_tread_h35hotchkiss"
+		"fra_artillery_antitank"
+
+    }
+    REQN
+    {
+    "model"
+    "com_inv_mesh"
+    }
+    
+    REQN
+    {
+    "config"
+    "extraweapons"
+    }	
+}

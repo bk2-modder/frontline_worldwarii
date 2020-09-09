@@ -1,0 +1,14 @@
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_item_vehiclerecharge"
+	}
+    
+	REQN
+	{
+		"world"
+		"NA1_conquest"
+	}
+}

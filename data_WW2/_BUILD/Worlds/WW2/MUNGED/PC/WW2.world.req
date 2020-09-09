@@ -1,0 +1,40 @@
+
+ucft
+{
+	REQN
+	{
+		"light"
+		"ww2"
+	}
+	REQN
+	{
+		"terrain"
+		"ww2"
+	}
+	REQN
+	{
+		"config"
+		"ww2"
+	}
+	REQN
+	{
+		"path"
+		""
+	}
+	REQN
+	{
+		"class"
+		"csa_crate2"
+		"ww2_building_tworoomhouse"
+		"csa_crate3"
+		"ww2_bldg_countrysidefence"
+		"nab_prop_trees2"
+		"ww2_prop_woodenbarrels"
+		"ww2_bldg_tramainhouse"
+		"csa_crate1"
+		"ww2_prop_fir_tree"
+		"fra_artillery_antitank"
+		"ww2_prop_woodenbench_radio"
+		"ww2_prop_woodenbench"
+	}
+}

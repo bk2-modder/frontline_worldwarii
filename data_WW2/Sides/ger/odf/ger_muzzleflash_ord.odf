@@ -1,0 +1,6 @@
+[OrdnanceClass]
+ClassLabel 		= "fatray"
+
+[Properties]
+TrailEffect = "com_sfx_inf_fire_smoke"
+Velocity            	= "0.0"

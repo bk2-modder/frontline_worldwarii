@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_recoilless"
+		"ger_weap_tread_37mm_ord"
+		"ger_tankmuzzleflash_ord"
+	}
+}

@@ -1,0 +1,337 @@
+// light tank engine start -----------------------------
+
+SoundProperties()
+{
+    Name("tank_engine_low_idle_property");
+    Group("vehicles");
+    Inherit("vehicle_template");
+    MuteDistance(250.0);
+    MaxDistance(250.0);
+    SampleList()
+    {
+      Sample("tank_engine_idle", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_med_idle_property");
+    Group("vehicles");
+    Inherit("vehicle_template");
+    MuteDistance(225.0);
+    MaxDistance(225.0);
+    SampleList()
+    {
+      Sample("tank_engine_med", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_high_idle_property");
+    Group("vehicles");
+    Inherit("vehicle_template");
+    MuteDistance(200.0);
+    MaxDistance(200.0);
+    SampleList()
+    {
+      Sample("tank_engine_high", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_damage_idle_property");
+    Group("vehicles");
+    Inherit("vehicle_template");
+    SampleList()
+    {
+      Sample("tank_engine_idle", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_boost_on")
+    Pitch(0.6);
+    PitchDev(0.0);
+    Gain(0.4);
+    GainDev(0.0);
+    ReverbGain(1.0);
+    Bus("soundfx");
+    Looping(0);
+    Pan(0.0);
+    MinDistance(5.0);
+    MuteDistance(100.0);
+    MaxDistance(100.0);
+    RollOff(5.0);
+    Mode3D(1);
+    Bias(0.0001);
+    Priority(0.7);
+    SampleList()
+    {
+        Sample("tank_engine_turnon", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_boost_on_max")
+    Pitch(1.0);
+    PitchDev(0.0);
+    Gain(0.6);
+    GainDev(0.0);
+    ReverbGain(1.0);
+    Bus("soundfx");
+    Looping(0);
+    Pan(0.0);
+    MinDistance(5.0);
+    MuteDistance(100.0);
+    MaxDistance(100.0);
+    RollOff(5.0);
+    Mode3D(1);
+    Bias(0.0001);
+    Priority(0.7);
+    SampleList()
+    {
+        Sample("tank_engine_high", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_boost_off_max")
+    Pitch(1.0);
+    PitchDev(0.0);
+    Gain(0.6);
+    GainDev(0.0);
+    ReverbGain(1.0);
+    Bus("soundfx");
+    Looping(0);
+    Pan(0.0);
+    MinDistance(5.0);
+    MuteDistance(100.0);
+    MaxDistance(100.0);
+    RollOff(5.0);
+    Mode3D(1);
+    Bias(0.0001);
+    Priority(0.7);
+    SampleList()
+    {
+        Sample("tank_engine_high", 1.0);
+    }
+}
+
+SoundProperties()
+{
+    Name("tank_engine_boost_off")
+    Pitch(0.5);
+    PitchDev(0.0);
+    Gain(0.3);
+    GainDev(0.0);
+    ReverbGain(1.0);
+    Bus("soundfx");
+    Looping(0);
+    Pan(0.0);
+    MinDistance(5.0);
+    MuteDistance(100.0);
+    MaxDistance(100.0);
+    RollOff(5.0);
+    Mode3D(1);
+    Bias(0.0001);
+    Priority(0.7);
+    SampleList()
+    {
+        Sample("tank_engine_turnon", 1.0);
+    }
+}
+
+ParameterGraph()
+{
+    Name("tank_engine_low_idle_speed");
+    ControlPoint(-1.0, 0.8);
+    ControlPoint(0.0, 0.8);
+    ControlPoint(1.0, 1.0);
+    ControlPoint(1.2, 1.2);
+
+}
+
+ParameterGraph()
+{
+    Name("tank_engine_low_idle_acceleration");
+    ControlPoint(-1.0, 0.6);
+    ControlPoint(0.0, 0.7);
+    //ControlPoint(0.5, 0.8);
+    ControlPoint(1.0, 1.0);
+}
+
+ParameterGraph()
+{
+    Name("tank_engine_med_idle_speed");
+    ControlPoint(-1.0, 0.8);
+    ControlPoint(0.0, 0.8);
+   // ControlPoint(0.5, 0.9);
+    ControlPoint(1.0, 1.0);
+    ControlPoint(1.2, 1.2);
+    
+}
+
+ParameterGraph()
+{
+    Name("tank_engine_med_idle_acceleration");
+    ControlPoint(-1.0, 0.6);
+    ControlPoint(0.0, 0.7);
+//    ControlPoint(0.5, 0.8);
+    ControlPoint(1.0, 1.0);
+}
+
+ParameterGraph()
+{
+    Name("tank_engine_high_idle_speed");
+    ControlPoint(-1.0, 0.6);
+    ControlPoint(0.0, 0.6);
+    ControlPoint(1.0, 1.0);
+    ControlPoint(1.2, 1.2);
+    
+}
+
+ParameterGraph()
+{
+    Name("tank_engine_high_idle_acceleration");
+    ControlPoint(-1.0, 0.7);
+    ControlPoint(0.0, 0.7);
+    //ControlPoint(0.5, 0.8);
+    ControlPoint(1.0, 1.0);
+}
+
+
+ParameterGraph()
+{
+    Name("tank_engine_health");
+    ControlPoint(0.1, 2.0);
+    ControlPoint(0.3, 2.0);
+    ControlPoint(0.4, 1.5);
+    ControlPoint(0.5, 1.0);
+    ControlPoint(0.85, 0.0);
+    ControlPoint(1.0, 0.0);
+}
+
+SoundLayered()
+{
+    Name("tank_engine_layered");
+    Layer("tank_engine_low_idle", "tank_engine_low_idle_property", 0.0);
+    Layer("tank_engine_med_idle", "tank_engine_med_idle_property", 0.0);
+    Layer("tank_engine_high_idle", "tank_engine_high_idle_property", 0.0);
+  //  Layer("tank_engine_damage", "tank_engine_damage_idle_property", 0.0);
+
+}
+
+SoundParameterized()
+{
+    Name("tank_engine_parameterized");
+    SoundLayered("tank_engine_layered");
+
+Layer()
+    {
+        Name("tank_engine_low_idle");
+        ParameterGraph("speed",        "tank_engine_low_idle_speed", "pitch");
+        ParameterGraph("acceleration", "tank_engine_low_idle_acceleration","gain");
+        ParameterGraph("turnontime",   "engine_turnon_gain",      "gain");
+        ParameterGraph("turnofftime",  "engine_turnoff_gain",     "gain");
+    }
+
+    Layer()
+    {
+        Name("tank_engine_med_idle");
+        ParameterGraph("speed",        "tank_engine_med_idle_speed", "pitch");
+        ParameterGraph("acceleration", "tank_engine_med_idle_acceleration","gain");
+        ParameterGraph("turnontime",   "engine_turnon_gain",      "gain");
+        ParameterGraph("turnofftime",  "engine_turnoff_gain",     "gain");
+    }
+    Layer()
+    {
+        Name("tank_engine_high_idle");
+        ParameterGraph("speed",        "tank_engine_high_idle_speed", "pitch");
+        ParameterGraph("acceleration", "tank_engine_high_idle_acceleration","gain");
+        ParameterGraph("turnontime",   "engine_turnon_gain",      "gain");
+        ParameterGraph("turnofftime",  "engine_turnoff_gain",     "gain");
+    }
+//  Layer()
+//    {
+//        Name("tank_engine_damage");
+//        ParameterGraph("health", "tank_engine_health","gain");
+//    }
+
+}
+
+//light tank Engine End--------------------------------------------------------------
+
+// ----- MP40 Start ---------------------------------------
+SoundProperties()
+{
+    Name("wpn_ger_mp40_fire");
+    Group("weapons");
+    Inherit("weapon_template");
+	Gain(1.0);
+    SampleList()
+    {
+        Sample("wpn_ger_mp40_fire", 1.0);
+    }
+}
+// ----- MP40 End -----------------------------------------
+
+// ----- MAS36 Start --------------------------------------
+SoundProperties()
+{
+    Name("wpn_fra_mas36_fire");
+    Group("weapons");
+    Inherit("weapon_template");
+	Gain(1.0);
+    SampleList()
+    {
+        Sample("wpn_fra_mas36_fire", 1.0);
+    }
+}
+// ----- MAS36 End ----------------------------------------
+
+// ----- MAS38 Start --------------------------------------
+SoundProperties()
+{
+    Name("wpn_fra_mas38_fire");
+    Group("weapons");
+    Inherit("weapon_template");
+	Gain(1.0);
+    SampleList()
+    {
+        Sample("wpn_fra_mas38_fire", 1.0);
+    }
+}
+// ----- MAS38 End ----------------------------------------
+
+// ----- P08 Luger Start --------------------------------------
+SoundProperties()
+{
+    Name("wpn_ger_p08luger_fire");
+    Group("weapons");
+    Inherit("weapon_template");
+	Gain(1.0);
+    SampleList()
+    {
+        Sample("wpn_ger_p08luger_fire", 1.0);
+    }
+}
+// ----- P08 Luger End ----------------------------------------
+
+// ----- 37mm Start --------------------------------------
+SoundProperties()
+{
+    Name("wpn_fra_37mm");
+    Group("weapons");
+    Inherit("weapon_template");
+	Gain(1.5);
+    SampleList()
+    {
+        Sample("wpn_fra_37mm", 1.0);
+    }
+}
+// ----- 37mm End ----------------------------------------

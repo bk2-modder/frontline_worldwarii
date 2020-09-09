@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"reticule_rifle"
+	}
+	REQN
+	{
+		"class"
+		"imp_weap_fly_tiefighter_cannon_ord"
+	}
+}

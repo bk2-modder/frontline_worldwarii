@@ -1,0 +1,21 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_sfx_laser_green"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_watersplash_sm"
+		"medium_cannon_impacts"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_ord_exp"
+		"com_weap_inf_ord_hum_lg"
+	}
+}

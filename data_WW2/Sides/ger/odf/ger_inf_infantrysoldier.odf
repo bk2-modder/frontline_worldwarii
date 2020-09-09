@@ -1,0 +1,11 @@
+[GameObjectClass]
+ClassParent         = "imp_inf_default_rifleman"
+
+[Properties]
+GeometryName        = "ger_inf_wehrmachtsoldier"
+GeometryLowRes      = "ger_inf_wehrmachtsoldier_low1"
+FirstPerson         = "GER\impoff;imp_1st_officer"
+
+AnimatedAddon			= "backpack"
+GeometryAddon = "addon_axisbackpack"
+AddonAttachJoint = "bone_ribcage

@@ -1,0 +1,6 @@
+[OrdnanceClass]
+ClassLabel 		= "fatray"
+
+[Properties]
+TrailEffect = "com_sfx_gunsmoke"
+Velocity            	= "0.0"

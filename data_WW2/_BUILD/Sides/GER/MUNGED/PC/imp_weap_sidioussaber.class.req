@@ -1,0 +1,30 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"darkredlightsabre"
+	}
+	REQN
+	{
+		"animset"
+		"human_sabre"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_inf_lightsaber"
+		"imp_weap_hero_sidious_exp"
+	}
+	REQN
+	{
+		"model"
+		"imp_weap_inf_lightsabre"
+	}
+	REQN
+	{
+		"config"
+		"imp_hero_emperor"
+	}
+}

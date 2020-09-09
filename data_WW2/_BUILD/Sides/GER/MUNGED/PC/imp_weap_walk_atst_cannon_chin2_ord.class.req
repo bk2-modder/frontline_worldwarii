@@ -1,0 +1,21 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_sfx_laser_red"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_watersplash_sm"
+		"com_sfx_explosion_sm"
+	}
+	REQN
+	{
+		"class"
+		"imp_weap_walk_atst_cannon_chin2_exp"
+		"com_weap_inf_ord_hum_lg"
+	}
+}

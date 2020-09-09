@@ -1,0 +1,11 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"ww2_bldg_countrysidefence.msh"
+
+
+[Properties]		
+
+GeometryName	=	"ww2_bldg_countrysidefence"
+
+FoleyFXGroup    = "wood_foley"

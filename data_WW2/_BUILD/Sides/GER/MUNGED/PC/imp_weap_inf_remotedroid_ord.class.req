@@ -1,0 +1,17 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_inf_remotedroid_ord"
+		"imp_weap_inf_remotedroid_exp1"
+		"imp_weap_inf_remotedroid_blaster"
+		"imp_weap_inf_remotedroid_destruct"
+	}
+	REQN
+	{
+		"model"
+		"com_weap_probedroid"
+	}
+}

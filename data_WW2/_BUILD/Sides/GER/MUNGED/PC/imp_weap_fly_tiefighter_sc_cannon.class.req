@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_multilasers"
+		"imp_weap_fly_tiefighter_cannon_ord"
+	}
+}

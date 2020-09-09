@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"imp_inf_default_marine"
+	}
+	REQN
+	{
+		"model"
+		"imp_inf_shocktrooper"
+		"imp_inf_shocktrooper_low1"
+	}
+}

@@ -1,0 +1,11 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"jetpack"
+		"com_sfx_flashring1"
+		"com_sfx_flashball2"
+	}
+}

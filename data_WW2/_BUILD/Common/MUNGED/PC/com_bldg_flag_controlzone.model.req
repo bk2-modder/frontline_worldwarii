@@ -1,0 +1,12 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_icon_flag_france"
+		"com_bldg_commandflag_pole"
+		"com_bldg_commandflag_bag"
+		"com_bldg_commandflag_bag_norm"
+	}
+}

@@ -1,0 +1,16 @@
+[GameObjectClass]		
+ClassLabel		    =	"AnimatedProp"
+GeometryName	    =	"cis_prop_lander.msh"
+
+[Properties]		
+GeometryName        =	"cis_prop_lander"
+AnimationName       = "cis_prop_lander"
+//Animation           =     "open"
+Animation           =     "idleopen"
+//Animation           =     "close"
+//Animation           =     "idleclose"
+
+//AnimationTrigger    =     "close Dummyroot 1000.0"
+//IdleDelay = "10.0"
+
+DenyFlyerLand = "1"

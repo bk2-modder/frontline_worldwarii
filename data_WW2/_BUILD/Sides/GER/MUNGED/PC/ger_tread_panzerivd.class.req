@@ -1,0 +1,33 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"tread_l"
+		"tread_r"
+	}
+	REQN
+	{
+		"model"
+		"ger_tread_panzerivd"
+		"ger_tread_panzerivd_chunk1"
+		"ger_tread_panzerivd_chunk2"
+	}
+	REQN
+	{
+		"class"
+		"ger_tread_panzerivd_exp"
+		"ger_weap_tread_mg"
+		"ger_weap_tread_37mm"
+	}
+	REQN
+	{
+		"config"
+		"hailfire_wake"
+		"com_sfx_dirtspray_lg"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+		"com_sfx_dustwake"
+	}
+}

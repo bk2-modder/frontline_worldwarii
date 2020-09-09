@@ -1,0 +1,40 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"trooptrans_icon"
+		"hud_imp_trooptrans_icon"
+	}
+	REQN
+	{
+		"animbank"
+		"imp_fly_trooptrans"
+	}
+	REQN
+	{
+		"model"
+		"imp_fly_trooptrans"
+		"imp_fly_trooptrans_chunk1"
+		"imp_fly_trooptrans_chunk2"
+		"imp_fly_trooptrans_chunk3"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_contrail"
+		"com_sfx_vehiclespark_sc"
+		"com_sfx_vehiclesmoke_sc"
+		"com_sfx_vehicleflame_sc"
+		"com_sfx_explosion_lg"
+		"com_sfx_chunktrail_sm"
+		"com_sfx_smokeplume"
+	}
+	REQN
+	{
+		"class"
+		"imp_fly_trooptrans_exp"
+		"com_weap_veh_fly_guided_rocket"
+	}
+}

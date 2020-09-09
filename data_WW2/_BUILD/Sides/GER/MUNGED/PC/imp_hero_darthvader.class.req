@@ -1,0 +1,25 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"vader"
+		"vaderlz"
+	}
+	REQN
+	{
+		"class"
+		"com_jedi_default"
+		"imp_inf_darthvader_cape"
+		"imp_weap_lightsaber"
+		"com_weap_inf_sabre_throw"
+		"com_weap_inf_force_choke"
+	}
+	REQN
+	{
+		"model"
+		"imp_inf_darthvader"
+		"imp_inf_darthvader_low1"
+	}
+}

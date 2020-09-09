@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"imp_fly_trooptrans"
+		"imp_fly_trooptrans_lowrez"
+	}
+}

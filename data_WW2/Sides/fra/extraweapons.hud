@@ -1,0 +1,144 @@
+Code:
+
+ViewPort("Transforms")
+{
+    EventNameFilter("player%")
+
+// First Weapons Section
+
+    TransformNameMesh("player1weapon1")
+   // add msh names of first weapons here and remove unused lines 
+    {
+        NameMesh("fra_weap_inf_mas38", "com_inv_mesh")
+        
+        EventInput("player1.weapon1.change")
+        EventOutput("player1.weapon1.mesh")
+    }
+    }
+    
+    Group("extraWeaponDisplay")
+{
+    PropagateAlpha(1)
+    Viewport(1)
+    Position(0.0000000, 1.000000, 0.000000, "Viewport")
+    ZOrder(255)
+    EventEnable("player1.weaponsEnable")
+    EventDisable("player1.weaponsDisable")
+
+     Group("extraWeaponIcon")
+{
+    Viewport(1)
+    Position(0.346161, -0.450412, 0.000000, "Viewport")
+    EventEnable("initialize")
+    
+    Model3D("player1.weapon1mesh")         
+{
+                EventMesh("player1.weapon1.change")
+                Viewport(1)
+                ZOrder(5)
+                EventEnable("player1.weapon1.mesh")
+                EventDisable("player1.weapon1.disable")
+                Position(500.000000, 500.000000, 500.000000, "Viewport")
+                Rotation(0.804269, 359.994110, 359.999695)
+                Scale(0.000000, 0.000000, 0.000000)
+                
+  //change position, rotation and scale of first weapon here, remove unused lines
+
+                MeshInfo("fra_weap_inf_mas38")
+                {
+                    Position(-0.222832, 0.361293, 0.014590, "Viewport")
+                    Rotation(0.804269, 90.747269, 359.999695)
+                }
+                }
+                }
+		}
+
+// Second Weapons Section
+		
+  TransformNameMesh("player1weapon2")
+    // add names of second weapons here 
+    {
+            NameMesh("fra_weap_inf_mas38", "com_inv_mesh")
+
+                
+        EventInput("player1.weapon2.change")
+        EventOutput("player1.weapon2.mesh")
+    }
+  
+      Group("extraWeaponDisplay")
+{
+    PropagateAlpha(1)
+    Viewport(1)
+    Position(0.0000000, 1.000000, 0.000000, "Viewport")
+    ZOrder(255)
+    EventEnable("player1.weaponsEnable")
+    EventDisable("player1.weaponsDisable")
+    
+      Group("extraWeaponIcon")
+{
+    Viewport(1)
+    Position(0.346161, -0.450412, 0.000000, "Viewport")
+    EventEnable("initialize")
+    
+    Model3D("player1.weapon2mesh")         
+{
+                EventMesh("player1.weapon2.change")
+                Viewport(1)
+                ZOrder(5)
+                EventEnable("player1.weapon2.mesh")
+                EventDisable("player1.weapon2.disable")
+                Position(500.000000, 500.000000, 500.000000, "Viewport")
+                Rotation(0.804269, 359.994110, 359.999695)
+                Scale(0.000000, 0.000000, 0.000000)
+                
+// adjust position, rotation and scale of second weapon here
+               
+            MeshInfo("fra_weap_inf_mas38")
+                {
+                    Position(-0.274201, 0.284023, 15.000000, "Viewport")
+                    Rotation(0.000000, 0.000000, 359.999695)
+                    Scale(1.750000, 1.750000, 1.750000)
+                }
+        }
+    }
+}
+Group("player1weaponinformationforironsights")
+{
+PropagateAlpha(1)
+
+Viewport(1)
+
+ZOrder(255)
+
+EventEnable("player1.spawn")
+EventDisable("player1.die")
+
+Group("player1weapon1groupforironsights")
+	{
+		Viewport(1)
+		EventEnable("initialize")
+
+		Model3D("player1weapon1mesh")
+		{
+		EventMesh("player1.weapon1.change")
+
+		Viewport(1)
+
+		ZOrder(5)
+
+		EventEnable("player1.weapon1.disable")
+		EventDisable("player1.weapon1.mesh")
+
+		MeshInfo("fra_weap_inf_mas38")
+			{
+			Position(0.500000, 1.450000, -1.800000, "Viewport")
+			Rotation(-3.000000, 179.000000, 0.000000)
+			Scale(20.000000, 20.00000, 20.000000)
+			}
+		}
+	}
+}                
+                
+                
+               
+               

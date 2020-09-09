@@ -1,0 +1,111 @@
+Logging LevelPack
+22:32:4209/08/20
+
+=== ger_tread_panzerivd.lvl ===
+Missing file tread_l.texture
+    Reqd by munged\pc\ger_tread_panzerivd.class.req
+Missing file tread_r.texture
+    Reqd by munged\pc\ger_tread_panzerivd.class.req
+Missing file com_weap_inf_ord_hum_sm.class
+    Reqd by ..\common\munged\pc\com_weap_inf_smg_ord.class.req
+Missing file com_weap_inf_equip_med.class
+    Reqd by munged\pc\ger_weap_tread_mg.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+            munged\pc\ger_weap_tread_37mm_ord.class.req
+Missing file hailfire_wake.config
+    Reqd by munged\pc\ger_tread_panzerivd.class.req
+
+=== imp_walk_atat.lvl ===
+Missing file hud_imp_atat_icon.texture
+    Reqd by munged\pc\imp_walk_atat.class.req
+Missing file imp_walk_atat1.anim
+    Reqd by munged\pc\imp_walk_atat.class.req
+Missing file small_explosion.class
+    Reqd by munged\pc\imp_walk_atat.class.req
+Missing file imp_sfx_atat_explosion.class
+    Reqd by munged\pc\imp_walk_atat.class.req
+Missing file explode3.texture
+    Reqd by munged\pc\imp_sfx_atatfinalexplosion.config.req
+Missing file thicksmoke3.texture
+    Reqd by munged\pc\imp_sfx_atatfinalexplosion.config.req
+Missing file underlitesmoke2.texture
+    Reqd by munged\pc\imp_sfx_atatfinalexplosion.config.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_laser_ord.class.req
+            ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+Missing file bigwalkerstomp.config
+    Reqd by munged\pc\imp_walk_atat.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\imp_walk_atat.class.req
+
+=== imp_walk_atst.lvl ===
+Missing file hud_imp_atst_icon.texture
+    Reqd by munged\pc\imp_walk_atst.class.req
+Missing file explode3.texture
+    Reqd by munged\pc\imp_sfx_atatexplosion.config.req
+Missing file thicksmoke3.texture
+    Reqd by munged\pc\imp_sfx_atatexplosion.config.req
+Missing file atat_explosion.class
+    Reqd by munged\pc\imp_walk_atst.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_laser_ord.class.req
+            ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+Missing file hud_com_probedroid_health_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket.class.req
+Missing file x-wing_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket_ord.class.req
+Missing file hud_all_xwing_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket_ord.class.req
+Missing file reticule_rifle.texture
+    Reqd by ..\common\munged\pc\com_weap_null.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\imp_walk_atst.class.req
+
+=== imp_walk_atst_jungle.lvl ===
+Missing file hud_imp_atst_icon.texture
+    Reqd by munged\pc\imp_walk_atst_jungle.class.req
+Missing file explode3.texture
+    Reqd by munged\pc\imp_sfx_atatexplosion.config.req
+Missing file thicksmoke3.texture
+    Reqd by munged\pc\imp_sfx_atatexplosion.config.req
+Missing file atat_explosion.class
+    Reqd by munged\pc\imp_walk_atst_jungle.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_laser_ord.class.req
+            ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+Missing file hud_com_probedroid_health_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket.class.req
+Missing file x-wing_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket_ord.class.req
+Missing file hud_all_xwing_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket_ord.class.req
+Missing file reticule_rifle.texture
+    Reqd by ..\common\munged\pc\com_weap_null.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\imp_walk_atst_jungle.class.req
+
+=== imp_walk_atst_snow.lvl ===
+Missing file hud_imp_atst_icon.texture
+    Reqd by munged\pc\imp_walk_atst_snow.class.req
+Missing file explode3.texture
+    Reqd by munged\pc\imp_sfx_atatexplosion.config.req
+Missing file thicksmoke3.texture
+    Reqd by munged\pc\imp_sfx_atatexplosion.config.req
+Missing file atat_explosion.class
+    Reqd by munged\pc\imp_walk_atst_snow.class.req
+Missing file com_weap_inf_ord_hum_lg.class
+    Reqd by ..\common\munged\pc\com_weap_veh_laser_ord.class.req
+            ..\common\munged\pc\com_weap_veh_recoilless_ord.class.req
+Missing file hud_com_probedroid_health_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket.class.req
+Missing file x-wing_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket_ord.class.req
+Missing file hud_all_xwing_icon.texture
+    Reqd by ..\common\munged\pc\com_weap_veh_guided_rocket_ord.class.req
+Missing file reticule_rifle.texture
+    Reqd by ..\common\munged\pc\com_weap_null.class.req
+Missing file dirtspray.config
+    Reqd by munged\pc\imp_walk_atst_snow.class.req
+   0 Errors    0 Warnings
+

@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_sfx_laser_green"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_multilasers_ord"
+		"imp_weap_fly_tiefighter_cannon_exp"
+	}
+}

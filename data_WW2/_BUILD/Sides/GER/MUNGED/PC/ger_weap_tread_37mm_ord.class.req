@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"com_sfx_bullet"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_veh_recoilless_ord"
+		"ger_weap_tread_37mm_exp"
+		"com_weap_inf_ord_hum_lg"
+	}
+}

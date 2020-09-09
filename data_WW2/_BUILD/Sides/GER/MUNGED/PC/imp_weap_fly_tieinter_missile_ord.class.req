@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_stingers_ord"
+		"imp_weap_fly_tieinter_missile_exp"
+	}
+	REQN
+	{
+		"config"
+		"com_sfx_weap_rockettrail"
+	}
+}

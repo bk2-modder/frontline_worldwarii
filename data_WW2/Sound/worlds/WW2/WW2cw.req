@@ -1,0 +1,20 @@
+ucft
+{
+	REQN
+	{
+		"bnk"
+		"align=2048"
+		"WW2cw"
+	}
+
+	REQN
+	{
+		"config"
+		"global_world"
+		"exp_obj"
+		"WW2cw"
+
+		"cw_vo"
+		"cw"
+	}
+ }

@@ -1,0 +1,14 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"hud_all_lascannon_icon"
+	}
+	REQN
+	{
+		"class"
+		"imp_weap_walk_atst_cannon_chin_ord"
+	}
+}

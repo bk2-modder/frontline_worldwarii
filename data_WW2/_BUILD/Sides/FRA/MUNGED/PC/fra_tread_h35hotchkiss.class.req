@@ -1,0 +1,33 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"tread_l"
+		"tread_r"
+	}
+	REQN
+	{
+		"model"
+		"fra_tread_h35hotchkiss"
+		"fra_tread_h35hotchkiss_chunk1"
+		"fra_tread_h35hotchkiss_chunk2"
+	}
+	REQN
+	{
+		"class"
+		"fra_tread_h35hotchkiss_exp"
+		"fra_weap_inf_mas38_tank"
+		"fra_weap_tread_37mm"
+	}
+	REQN
+	{
+		"config"
+		"hailfire_wake"
+		"com_sfx_dirtspray_lg"
+		"com_sfx_vehiclesmoke"
+		"com_sfx_vehicleflame"
+		"com_sfx_dustwake"
+	}
+}

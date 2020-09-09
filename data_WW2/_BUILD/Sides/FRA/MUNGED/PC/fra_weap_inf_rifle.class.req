@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_inf_rifle"
+		"fra_weap_inf_rifle_ord"
+		"com_weap_inf_equip_med"
+	}
+	REQN
+	{
+		"model"
+		"fra_weap_inf_mas36"
+	}
+}

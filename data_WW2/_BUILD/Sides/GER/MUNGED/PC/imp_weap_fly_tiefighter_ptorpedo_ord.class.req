@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_torpedo_ord"
+		"imp_weap_hover_fightertank_missile_exp"
+	}
+	REQN
+	{
+		"model"
+		"com_weap_missile"
+	}
+}

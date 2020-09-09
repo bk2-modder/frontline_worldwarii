@@ -1,0 +1,126 @@
+Version(10);
+PathCount(1);
+
+Path("boundary1")
+{
+	Data(0);
+	PathType(0);
+	PathSpeedType(0);
+	PathTime(0.000000);
+	OffsetPath(0);
+	SplineType("Hermite");
+
+	Properties(0)
+	{
+	}
+
+	Nodes(8)
+	{
+		Node()
+		{
+			Position(-69.700363, -103.338959, -278.367767);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(130.701706, -107.700790, -259.403809);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(272.110565, -113.281281, 41.416977);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(138.650024, -111.240005, 303.267456);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-58.822235, -111.060005, 322.928894);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-204.088058, -107.905228, 125.178772);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-176.804810, -109.199829, -126.130249);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+		Node()
+		{
+			Position(-90.956596, -105.181641, -257.337219);
+			Knot(0.000000);
+			Data(0);
+			Time(1.000000);
+			PauseTime(0.000000);
+			Rotation(1.000000, 0.000000, 0.000000, 0.000000);
+			Properties(0)
+			{
+			}
+		}
+
+	}
+
+}
+

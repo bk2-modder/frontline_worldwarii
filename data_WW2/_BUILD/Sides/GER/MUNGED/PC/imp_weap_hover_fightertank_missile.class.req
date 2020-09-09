@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_missile"
+		"imp_weap_hover_fightertank_missile_ord"
+	}
+}

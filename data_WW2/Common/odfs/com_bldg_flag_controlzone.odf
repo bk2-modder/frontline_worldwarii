@@ -1,0 +1,6 @@
+[GameObjectClass]
+ClassLabel = "cloth"
+
+[Properties]
+attachedmesh = "com_bldg_flag_controlzone"
+ParticleMass = 20

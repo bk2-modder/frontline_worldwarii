@@ -1,0 +1,11 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"ww2_prop_woodenbench.msh"
+
+
+[Properties]		
+
+GeometryName	=	"ww2_prop_woodenbench"
+
+FoleyFXGroup    = "wood_foley"

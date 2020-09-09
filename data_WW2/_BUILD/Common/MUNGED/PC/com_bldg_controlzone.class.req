@@ -1,0 +1,23 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"hud_flag_icon"
+	}
+	REQN
+	{
+		"class"
+		"com_bldg_flag_controlzone"
+		"com_holo_flag_controlzone"
+	}
+	REQN
+	{
+		"model"
+		"com_bldg_flag_controlzone"
+		"com_icon_flag_germany"
+		"com_icon_flag_france"
+		"com_icon_republic"
+	}
+}

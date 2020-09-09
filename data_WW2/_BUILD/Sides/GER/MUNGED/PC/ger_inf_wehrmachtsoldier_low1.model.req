@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"ger_inf_wehrmachtsoldier_diff3"
+		"ger_inf_wehrmachtsoldier_norm3"
+		"ger_inf_wehrmachtsoldier_diff2"
+		"ger_inf_wehrmachtsoldier_norm2"
+		"ger_inf_wehrmachtsoldier_diff4"
+		"ger_inf_wehrmachtsoldier_diff"
+		"ger_inf_wehrmachtsoldier_norm"
+	}
+}

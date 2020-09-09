@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_recoilless"
+		"imp_weap_fly_trooptrans_recoilless_ord"
+	}
+}

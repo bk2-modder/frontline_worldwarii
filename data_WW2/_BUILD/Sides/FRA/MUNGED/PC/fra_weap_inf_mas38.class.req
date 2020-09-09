@@ -1,0 +1,23 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"ironsights"
+	}
+	REQN
+	{
+		"class"
+		"com_weap_inf_smg"
+		"fra_weap_inf_mas38_ord"
+		"com_weap_inf_equip_med"
+	}
+	REQN
+	{
+		"model"
+		"fra_weap_inf_mas38"
+		"fra_weap_inf_mas38_1st"
+		"com_sfx_gunmuzzleflash"
+	}
+}

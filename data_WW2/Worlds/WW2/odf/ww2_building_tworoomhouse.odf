@@ -1,0 +1,11 @@
+[GameObjectClass]		
+
+ClassLabel		=	"prop"
+GeometryName	=	"ww2_building_tworoomhouse.msh"
+
+
+[Properties]		
+
+GeometryName	=	"ww2_building_tworoomhouse"
+
+FoleyFXGroup    = "stone_foley"

@@ -1,0 +1,18 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"impofficer"
+	}
+	REQN
+	{
+		"class"
+		"imp_inf_default"
+		"imp_weap_inf_sonic_blaster"
+		"imp_weap_inf_mortar_launcher"
+		"imp_weap_inf_buff_damage"
+		"imp_weap_inf_remotedroid"
+	}
+}

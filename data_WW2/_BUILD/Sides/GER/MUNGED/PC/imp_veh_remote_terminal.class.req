@@ -1,0 +1,20 @@
+
+ucft
+{
+	REQN
+	{
+		"texture"
+		"rechargedroid_icon"
+		"hud_all_turret_icon"
+	}
+	REQN
+	{
+		"anim"
+		"human_drive"
+	}
+	REQN
+	{
+		"model"
+		"imp_prop_turretchair"
+	}
+}

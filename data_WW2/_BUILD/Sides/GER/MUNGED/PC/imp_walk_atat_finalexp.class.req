@@ -1,0 +1,15 @@
+
+ucft
+{
+	REQN
+	{
+		"config"
+		"imp_sfx_atatfinalexplosion"
+		"com_sfx_chunktrail_sm"
+	}
+	REQN
+	{
+		"model"
+		"com_mediumchunk1"
+	}
+}

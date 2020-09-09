@@ -1,0 +1,86 @@
+[WeaponClass]
+ClassLabel 		= "cannon"
+
+[Properties]
+
+AnimationBank   = "rifle"
+
+//***********************************************
+//************* TARGET & RANGE VALUES  **********
+//***********************************************
+
+TargetEnemy     = "1"
+TargetNeutral   = "0"
+TargetFriendly  = "0"
+
+TargetPerson    = "1"
+TargetAnimal    = "1"
+TargetDroid     = "1"
+TargetVehicle   = "0"
+TargetBuilding  = "0"
+
+MinRange        = "0"
+OptimalRange    = "18"
+MaxRange        = "54"
+
+LockOnRange     = "30.0"
+LockTime        = "0.4"
+lockOnAngle     = "1.0"
+
+ZoomMin         = "2.5"
+ZoomMax         = "2.5"
+ZoomRate        = "0.0"
+
+YawSpread       = "0.225"
+PitchSpread     = "0.225"
+
+SpreadPerShot       = "1.15"
+SpreadRecoverRate   = "1.0"
+SpreadThreshold     = "2.0"
+SpreadLimit         = "1.65"
+
+StandStillSpread    = "0.0"
+StandMoveSpread     = "0.0"
+CrouchStillSpread   = "0.0"
+CrouchMoveSpread    = "0.0"
+ProneStillSpread    = "0.0"
+ProneMoveSpread     = "0.0"
+
+//***********************************************
+//*********** WEAPON PERFORMANCE VALUES *********
+//***********************************************
+
+RoundsPerClip       = "32"
+ReloadTime          = "2.5"
+ShotDelay           = "0.2"
+TriggerSingle       = "0"
+
+DisplayRefire 	    = "0"
+
+SalvoCount          = "1"
+SalvoDelay          = "0.0"
+InitialSalvoDelay   = "0.0"
+SalvoTime           = "0.0"
+
+
+//***********************************************
+//***********  HUD & CONTROLLER VALUES  *********
+//***********************************************
+
+MuzzleFlash         = "small_muzzle_flash"
+FlashColor          = "255 171 53 255"
+FlashLength         = 0.025
+FlashColor          = "255 255 0 175"
+FlashLength         = 0.025
+FlashLightColor     = "250 190 88 255"
+FlashLightRadius    = "1.0"
+FlashLightDuration  = "0.25"
+Discharge           = "small_smoke_effect"
+
+RecoilLengthLight   = "0.1"
+RecoilLengthHeavy   = "0.1"
+RecoilStrengthLight = "1.2"
+RecoilStrengthHeavy = "0.2"
+RecoilDecayLight    = "0.0"
+RecoilDecayHeavy    = "0.0"
+KickStrength        = "1.75"

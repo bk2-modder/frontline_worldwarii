@@ -1,0 +1,41 @@
+SkyInfo()
+{
+	Enable(1);
+    FogColor(106, 109, 82);
+    FogRange(-100.0, 600.0);
+    NearSceneRange(2245.0, 2280.0, 2250.0, 2520.0);
+    FarSceneRange(5200.0, 7000.0);
+    AmbientColor(108, 108, 108);
+    TopDirectionalAmbientColor(140, 140, 140);	
+}
+
+
+DomeInfo()
+{
+	Texture("SKY_Naboo1");
+	Angle(190.000005);
+	Ambient(256.000038, 256.000038, 256.000038);
+	Filter(1);
+	Threshold(50);	
+	Intensity(30);	
+	TerrainColorDarkening();
+	Softness(1);
+	SoftnessParam(60);
+
+	DomeModel()
+	{	
+		Geometry("naboo1_sky_dome");
+	}
+	DomeModel()
+	{	
+		Geometry("sky_yav2_mountains");
+		Offset(100.0);
+		MovementScale(0.995);
+	}	
+	DomeModel()
+	{	
+		Geometry("yav_sky_dome_clouds");
+		rotationspeed(0.004, 0,1.0,0);
+	}	
+
+}

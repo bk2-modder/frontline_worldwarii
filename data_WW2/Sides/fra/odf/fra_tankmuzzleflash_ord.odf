@@ -1,0 +1,6 @@
+[OrdnanceClass]
+ClassLabel 		= "fatray"
+
+[Properties]
+TrailEffect = "com_sfx_weap_sc_exp_md"
+Velocity            	= "0.0"

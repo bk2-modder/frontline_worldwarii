@@ -1,0 +1,16 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_inf_smg"
+		"imp_weap_inf_rifle_ord"
+		"com_weap_inf_equip_med"
+	}
+	REQN
+	{
+		"model"
+		"ger_weap_inf_mp40"
+	}
+}

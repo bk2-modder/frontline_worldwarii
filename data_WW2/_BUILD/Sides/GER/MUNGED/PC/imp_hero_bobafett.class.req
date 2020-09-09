@@ -1,0 +1,30 @@
+
+ucft
+{
+	REQN
+	{
+		"animbank"
+		"fett"
+	}
+	REQN
+	{
+		"class"
+		"com_hero_default"
+		"imp_inf_bobafett_cape"
+		"imp_weap_hero_bobarifle"
+		"imp_weap_hero_flamethrower"
+		"imp_weap_inf_wrist_rocket"
+		"imp_weap_inf_detpack"
+	}
+	REQN
+	{
+		"model"
+		"imp_inf_bobafett"
+		"imp_inf_bobafett_low1"
+	}
+	REQN
+	{
+		"config"
+		"imp_sfx_jetpack"
+	}
+}

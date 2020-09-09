@@ -1,0 +1,28 @@
+[WeaponClass]
+ClassParent         = "com_weap_inf_smg"
+
+[Properties]
+OrdnanceName        = "ger_weap_tread_mg_ord"
+SecondaryOrdnanceName 	= "ger_tankmuzzleflash_mg_ord"
+SecondaryOrdnancePeriod = 1
+
+ShotDelay           = "0.126"
+
+//******************************************************
+//***************   SOUND       ****************
+//******************************************************
+
+FireSound           = "wpn_ger_mp40_fire"
+FireEmptySound      = "com_weap_inf_ammo_empty"
+FireLoopSound       = ""
+ReloadSound         = "com_weap_inf_reload_med"
+ChargeSound         = ""
+ChargeSoundPitch    = ""
+ChangeModeSound     = "com_weap_inf_equip_med"
+WeaponChangeSound   = "com_weap_inf_equip_med"
+JumpSound           = "com_weap_inf_rifle_mvt_jump"
+LandSound           = "com_weap_inf_rifle_mvt_land"
+RollSound           = "com_weap_inf_rifle_mvt_roll"
+//ProneSound          = "com_weap_inf_rifle_mvt_lie"
+SquatSound          = "com_weap_inf_rifle_mvt_squat"
+//StandSound          = "com_weap_inf_rifle_mvt_getup"

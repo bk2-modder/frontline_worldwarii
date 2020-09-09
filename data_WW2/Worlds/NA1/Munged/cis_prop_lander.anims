@@ -1,0 +1,10 @@
+ucft
+{
+	ANIM
+	{
+		"idleclose"
+		"open"
+		"close"
+		"idleopen"
+	}
+}

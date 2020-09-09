@@ -1,0 +1,10 @@
+
+ucft
+{
+	REQN
+	{
+		"class"
+		"com_weap_veh_fly_beam"
+		"imp_weap_fly_tiebomber_turret_laser_ord"
+	}
+}

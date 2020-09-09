@@ -1,0 +1,1 @@
+-donotmergecollision -keep tread_l tread_r bone_root turret_aimer_y turret_aimer_x turret_aimer_barrel chassis_mg sv_chassis sv_h35_turret_body hp_fire2 -keepmaterial tread_l tread_r -hiresshadow
